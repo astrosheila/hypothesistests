@@ -10,6 +10,7 @@ To complete this tutorial:
   `wget https://raw.githubusercontent.com/astrosheila/hypothesistests/master/hypothesistests.ipynb -P /home/jovyan/demo`
  * paste the following into the terminal to get the input file:<br/>
   `wget https://raw.githubusercontent.com/astrosheila/hypothesistests/master/anscombe.txt -P /home/jovyan/demo` <br>
+ * paste the following into the terminal to get the input file:<br/>
+  `wget https://raw.githubusercontent.com/astrosheila/hypothesistests/master/ECO_dr1_subset -P /home/jovyan/demo` <br>
  * if necessary, click the refresh page (curled arrow) at the top of the webpage
- * launch the jupyter notebook and open the two python codes by double clicking on them
  * you can run or re-run individual cells in the notebook by clicking on them and typing Ctrl-Enter
